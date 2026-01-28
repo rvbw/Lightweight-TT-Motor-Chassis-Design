@@ -15,6 +15,7 @@ The design was prepared and validated using **Eufy Make** slicer software with t
 
 ### Material
 - **Material Type:** LPA (Black)
+- 
 ![TT Motor Chassis](images/Bodenplatt.png)
   **Reason:**  
   The chassis does not require high mechanical strength or heat resistance.  
