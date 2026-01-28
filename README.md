@@ -24,4 +24,4 @@ The design was created without performing any mechanical assembly and focuses on
 [View Chassis Design on Onshape](https://cad.onshape.com/documents/34c707881706398cd16b87a3/w/393acf8edfed52a665db1550/e/d15ba09a15af12f08a5c99f0?renderMode=0&uiState=697a22703009221ad19c221a)
 
 ## Design Preview
-![TT Motor Chassis](images/chassis.png)
+![TT Motor Chassis](images/Bodenplatte.png)
